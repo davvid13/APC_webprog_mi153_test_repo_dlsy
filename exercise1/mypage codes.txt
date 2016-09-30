@@ -21,8 +21,8 @@
 		<p>
 <table style="width:100%">
 	<tr>
-		<th style="color:white font-family:comic sans ms">Fullname</th>
-		<th style="color:white font-family:comic sans ms">Davvid Paulo L. Sy</th> 
+		<th style="color:white; font-family:comic sans ms">Fullname</th>
+		<th style="color:white; font-family:comic sans ms">Davvid Paulo L. Sy</th> 
 	</tr>
 
 	<tr>
