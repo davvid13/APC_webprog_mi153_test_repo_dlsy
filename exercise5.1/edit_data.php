@@ -53,6 +53,10 @@ if(isset($_POST['btn-cancel']))
 <body>
 <center>
 
+
+
+
+
 <div id="header">
  <div id="content">
     <label>CRUD Operations With PHP and MySql - By Cleartuts</label>
