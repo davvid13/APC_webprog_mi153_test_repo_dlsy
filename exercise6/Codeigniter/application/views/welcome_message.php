@@ -3,87 +3,63 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 ?><!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<title>Welcome to CodeIgniter</title>
+		<title>Exercise1</title>
+	</head>
+	<body style="background-color:black">
 
-	<style type="text/css">
 
-	::selection { background-color: #E13300; color: white; }
-	::-moz-selection { background-color: #E13300; color: white; }
+		<h1 style="text-align:center; color:white; font-family:comic sans ms">Webprog_Exercise1</h1> 
+		<h2 style="text-align:center; color:white; font-family:courier new">What You Do Today Can Improve All Your Tomorrow -Ralph Martson</h2>	
 
-	body {
-		background-color: #fff;
-		margin: 40px;
-		font: 13px/20px normal Helvetica, Arial, sans-serif;
-		color: #4F5155;
-	}
+			<img src="picture.jpg" alt="Me"
+			style="float:right;width:60px;"/> </h1>
+		<p> </p>
+		<br />
+		<br />
+		<br />
+		<br />
+		<hr />
 
-	a {
-		color: #003399;
-		background-color: transparent;
-		font-weight: normal;
-	}
 
-	h1 {
-		color: #444;
-		background-color: transparent;
-		border-bottom: 1px solid #D0D0D0;
-		font-size: 19px;
-		font-weight: normal;
-		margin: 0 0 14px 0;
-		padding: 14px 15px 10px 15px;
-	}
 
-	code {
-		font-family: Consolas, Monaco, Courier New, Courier, monospace;
-		font-size: 12px;
-		background-color: #f9f9f9;
-		border: 1px solid #D0D0D0;
-		color: #002166;
-		display: block;
-		margin: 14px 0 14px 0;
-		padding: 12px 10px 12px 10px;
-	}
+		<p>
+<table style="width:100%">
+	<tr>
+		<th style="color:white; font-family:georgia">Fullname:</th>
+		<th style="color:white; font-family:georgie">Davvid Paulo L. Sy</th> 
+	</tr>
 
-	#body {
-		margin: 0 15px 0 15px;
-	}
+	<tr>
+		<th style="color:white; font-family:georgia">Nickname:</th>
+		<th style="color:white; font-family:georgia">Davvid</th>	
+	</tr>
 
-	p.footer {
-		text-align: right;
-		font-size: 11px;
-		border-top: 1px solid #D0D0D0;
-		line-height: 32px;
-		padding: 0 10px 0 10px;
-		margin: 20px 0 0 0;
-	}
-
-	#container {
-		margin: 10px;
-		border: 1px solid #D0D0D0;
-		box-shadow: 0 0 8px #D0D0D0;
-	}
-	</style>
-</head>
-<body>
-
-<div id="container">
-	<h1>Welcome to CodeIgniter!</h1>
-
-	<div id="body">
-		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
-
-		<p>If you would like to edit this page you'll find it located at:</p>
-		<code>application/views/welcome_message.php</code>
-
-		<p>The corresponding controller for this page is found at:</p>
-		<code>application/controllers/Welcome.php</code>
-
-		<p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="user_guide/">User Guide</a>.</p>
-	</div>
-
-	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo  (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
-</div>
-
-</body>
+</table>
+	
+	<br /> <p style="color:white; font-family:comic sans ms">Hobbies:</p><br />
+				<img src="basketball.jpg" width="130px" alt="Play Basketball"/>
+				<img src="controller.jpg" width="130px" height="82" alt="Play video games"/>
+				<img src="book.jpg" width="125px" alt="Read books"/> 
+				<img src="food.jpg" width="133px" alt="Eat Food"/>
+				<img src="dog.jpg" width="120px" height="83px" alt="Dogs"/>
+				<img src="friends.gif" width="130px" height="83px" alt="Hanging with friends"/>
+				<img src="pop.jpg" width="130px" height="85px" alt="A little of dancing"/>
+				<img src="csgo.jpg" width="123px" height="85px" alt="Counter-Strike: Global Offensive"/>
+				
+			<br />
+			<br />
+			<br />
+			<br />
+			<br /> <p style="color:white; font-family:comic sans ms">Favorite Websites:</p>
+					<p style="color:white; font-family:comic sans ms">Click on icon to see websites! </br>
+					<a href="http://youtube.com"><img src="youtube.png" width="130px" height="105px" alt="Youtube Icon"/> </a>
+					<a href="http://google.com"><img src="google.png" width="130px"  height="95px" alt="Google Icon"/> </a>
+					<a href="http://reddit.com"><img src="reddit.jpg" width="130px" height="100px" alt="Reddit Icon" /> </a>
+					<a href="http://nba.com"><img src="nba.jpeg" width="130px" height="100px" alt="NBA Icon" /> </a>
+					<a href="http://hltv.org"><img src="hltv.png" width="120px" height="100px" alt="HLTV Icon" /> </a>
+					<a href="http://facebook.com"><img src="facebook.png" width="125px" height="100px" alt="Facebook Icon" /> </a>
+					<a href="http://9gag.com"><img src="9gag.png" width="130px" height="100px" alt="9gag Icon" /> </a>
+					<a href="http://moodle2.apc.edu.ph"><img src="moodle.png" width="130px" height="100px" alt="Moodle Icon" /> </a>
+					<a href="http://mangafox.com"><img src="mangafox.png" width="130px" height="110px" alt="Mange Icon" /> </a>
+	</body>
 </html>
