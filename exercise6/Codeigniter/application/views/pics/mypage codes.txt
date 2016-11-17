@@ -1,16 +1,12 @@
-<?php
-defined('BASEPATH') OR exit('No direct script access allowed');
-?><!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html>
+<html>
+	<head>
 		<title>Exercise1</title>
 	</head>
 	<body style="background-color:black">
 
 
 		<h1 style="text-align:center; color:white; font-family:comic sans ms">Webprog_Exercise1</h1> 
-		<h2 style="text-align:center; color:white; font-family:courier new">What You Do Today Can Improve All Your Tomorrow -Ralph Martson</h2>	
-
 			<img src="picture.jpg" alt="Me"
 			style="float:right;width:60px;"/> </h1>
 		<p> </p>
@@ -25,13 +21,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<p>
 <table style="width:100%">
 	<tr>
-		<th style="color:white; font-family:georgia">Fullname:</th>
-		<th style="color:white; font-family:georgie">Davvid Paulo L. Sy</th> 
+		<th style="color:white; font-family:comic sans ms">Fullname</th>
+		<th style="color:white; font-family:comic sans ms">Davvid Paulo L. Sy</th> 
 	</tr>
 
 	<tr>
-		<th style="color:white; font-family:georgia">Nickname:</th>
-		<th style="color:white; font-family:georgia">Davvid</th>	
+		<th style="color:white font-family:comic sans ms">Nickname</th>
+		<th style="color:white font-family:comic sans ms">Davvid</th>	
 	</tr>
 
 </table>
@@ -52,7 +48,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<br />
 			<br /> <p style="color:white; font-family:comic sans ms">Favorite Websites:</p>
 					<p style="color:white; font-family:comic sans ms">Click on icon to see websites! </br>
-					<a href="C:/xampp/htdocs/exercise6/Codeigniter/application/views/pics/http://youtube.com"><img src="youtube.png" width="130px" height="105px" alt="Youtube Icon"/> </a>
+					<a href="http://youtube.com"><img src="youtube.png" width="130px" height="105px" alt="Youtube Icon"/> </a>
 					<a href="http://google.com"><img src="google.png" width="130px"  height="95px" alt="Google Icon"/> </a>
 					<a href="http://reddit.com"><img src="reddit.jpg" width="130px" height="100px" alt="Reddit Icon" /> </a>
 					<a href="http://nba.com"><img src="nba.jpeg" width="130px" height="100px" alt="NBA Icon" /> </a>
