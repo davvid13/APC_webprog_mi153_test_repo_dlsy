@@ -52,14 +52,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<br />
 			<br /> <p style="color:white; font-family:comic sans ms">Favorite Websites:</p>
 					<p style="color:white; font-family:comic sans ms">Click on icon to see websites! </br>
-					<a href="C:/xampp/htdocs/exercise6/Codeigniter/application/views/pics/http://youtube.com"><img src="youtube.png" width="130px" height="105px" alt="Youtube Icon"/> </a>
-					<a href="http://google.com"><img src="google.png" width="130px"  height="95px" alt="Google Icon"/> </a>
-					<a href="http://reddit.com"><img src="reddit.jpg" width="130px" height="100px" alt="Reddit Icon" /> </a>
-					<a href="http://nba.com"><img src="nba.jpeg" width="130px" height="100px" alt="NBA Icon" /> </a>
-					<a href="http://hltv.org"><img src="hltv.png" width="120px" height="100px" alt="HLTV Icon" /> </a>
-					<a href="http://facebook.com"><img src="facebook.png" width="125px" height="100px" alt="Facebook Icon" /> </a>
-					<a href="http://9gag.com"><img src="9gag.png" width="130px" height="100px" alt="9gag Icon" /> </a>
-					<a href="http://moodle2.apc.edu.ph"><img src="moodle.png" width="130px" height="100px" alt="Moodle Icon" /> </a>
-					<a href="http://mangafox.com"><img src="mangafox.png" width="130px" height="110px" alt="Mange Icon" /> </a>
+					<a href="http://youtube.com"><img src="../../pics/youtube.png" width="130px" height="105px" alt="Youtube Icon"/> </a>
+					<a href="http://google.com"><img src="/pics/google.png" width="130px"  height="95px" alt="Google Icon"/> </a>
+					<a href="http://reddit.com"><img src="/pics/reddit.jpg" width="130px" height="100px" alt="Reddit Icon" /> </a>
+					<a href="http://nba.com"><img src="/pics/nba.jpeg" width="130px" height="100px" alt="NBA Icon" /> </a>
+					<a href="http://hltv.org"><img src="/pics/hltv.png" width="120px" height="100px" alt="HLTV Icon" /> </a>
+					<a href="http://facebook.com"><img src="/pics/facebook.png" width="125px" height="100px" alt="Facebook Icon" /> </a>
+					<a href="http://9gag.com"><img src="/pics/9gag.png" width="130px" height="100px" alt="9gag Icon" /> </a>
+					<a href="http://moodle2.apc.edu.ph"><img src="/pics/moodle.png" width="130px" height="100px" alt="Moodle Icon" /> </a>
+					<a href="http://mangafox.com"><img src="/pics/mangafox.png" width="130px" height="110px" alt="Mange Icon" /> </a>
 	</body>
 </html>
