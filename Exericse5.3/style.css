@@ -2,6 +2,15 @@
 /* CSS Document */
 
 *
+h1, h2{text-align:center; 
+	color:blue;
+	font-family:courier new;}
+
+img.me{float:right;
+	width:60px;}
+
+
+
 {
  margin:0;
  padding:0;
