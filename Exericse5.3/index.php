@@ -14,8 +14,8 @@ if(isset($_GET['delete_id']))
 <!DOCTYPE html>
 <head>
 <style>
-h1, h2 				{text-align:center; 
-								 color:blue;
+			h1, h2 				{text-align:center; 
+								 color:white;
 								 font-family:courier new;}
 					
 			img.me 				{float:right;
@@ -23,10 +23,10 @@ h1, h2 				{text-align:center;
 					
 			table 				{width:100%;}
 			
-			th					{color:blue;
+			th					{color:white;
 								 font-family:georgia}
 					 
-			p					{color:blue;
+			p					{color:white;
 								 font-family:georgia}
 								 					 
 			img.basketball		{width:130px;}
@@ -70,7 +70,7 @@ h1, h2 				{text-align:center;
 }
 body
 {
- background:#f9f9f9;
+ background:black;
  font-family:"Courier New", Courier, monospace;
 }
 #header
@@ -147,7 +147,7 @@ table td button:active
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>WEBPROGMI153_SY</title>
-
+<center>
 <script type="text/javascript">
 function edt_id(id)
 {
@@ -166,12 +166,12 @@ function delete_id(id)
 </script>
 </head>
 <body>
-<center>
+
 <h1>Webprog_Exercise2</h1>
 			<h2>What You Do Today Can Improve All Your Tomorrow -Ralph Martson</h2>	
 				<img class="me" src="picture.jpg" alt="Me">
 			
-			<p></p>
+			
 			
 			<table>
 				<tr>
@@ -185,7 +185,7 @@ function delete_id(id)
 				</tr>	
 			</table>
 			
-			<p></p><br/>
+			
 				<p>Hobbies:</p>
 					<img class="basketball" src="basketball.jpg" alt="Play Basketball"/>
 					<img class="video" src="controller.jpg" alt="Play video games"/>
@@ -195,9 +195,8 @@ function delete_id(id)
 					<img class="friends" src="friends.gif" alt="Hanging with friends"/>
 					<img class="dance" src="pop.jpg" alt="A little of dancing"/>
 					<img class="csgo" src="csgo.jpg" alt="Counter-Strike: Global Offensive"/>
-			<br/>
-				<p>Favorite Websites:</p>
-					<p>Click on icon to see websites!</p></br>
+			<br/></br>
+				<p>Favorite Websites:</p>	
 					<a href="http://youtube.com"><img class="youtube" src="youtube.png" alt="Youtube Icon"/> </a>
 					<a href="http://google.com"><img class="google" src="google.png" alt="Google Icon"/> </a>
 					<a href="http://reddit.com"><img class="reddit" src="reddit.jpg" alt="Reddit Icon" /> </a>
@@ -206,7 +205,8 @@ function delete_id(id)
 					<a href="http://facebook.com"><img class="facebook" src="facebook.png" alt="Facebook Icon" /> </a>
 					<a href="http://9gag.com"><img class="gag" src="9gag.png" alt="9gag Icon" /> </a>
 					<a href="http://moodle2.apc.edu.ph"><img class="moodle" src="moodle.png" alt="Moodle Icon" /> </a>
-					<a href="http://mangafox.com"><img class="mangafox" src="mangafox.png" alt="Mange Icon" /> </a>				
+					<a href="http://mangafox.com"><img class="mangafox" src="mangafox.png" alt="Mange Icon" /> </a>
+					<p>Click on icon to see websites!</p></br>
 				
 <div id="header">
  <div id="content">
