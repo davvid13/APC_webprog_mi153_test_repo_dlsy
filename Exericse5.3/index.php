@@ -19,7 +19,7 @@ if(isset($_GET['delete_id']))
 								 font-family:courier new;}
 					
 			img.me 				{float:right;
-								 width:60px;}
+								 width:100px;}
 					
 			table 				{width:100%;}
 			
