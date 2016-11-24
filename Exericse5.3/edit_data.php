@@ -181,9 +181,10 @@ table td button:active
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>WEBPROGMI153_SY</title>
+<center>
 </head>
 <body>
-<center>
+
 <h1>Webprog_Exercise2</h1>
 			<h2>What You Do Today Can Improve All Your Tomorrow -Ralph Martson</h2>	
 				<img class="me" src="picture.jpg" alt="Me">
