@@ -81,7 +81,7 @@ $db['default'] = array(
 	'database' => 'ex6',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
-	'pconnect' => FALS,
+	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
 	'cache_on' => FALSE,
 	'cachedir' => '',
