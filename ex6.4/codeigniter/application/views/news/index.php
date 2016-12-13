@@ -1,3 +1,56 @@
+<!DOCTYPE html>
+<head>
+<style>
+			h1, h2 				{text-align:center; 
+								 color:white;
+								 font-family:courier new;}
+					
+			img.me 				{float:right;
+								 width:100px;}
+					
+			table 				{width:100%;}
+			
+			th					{color:white;
+								 font-family:georgia}
+					 
+			p					{color:white;
+								 font-family:georgia}
+								 					 
+			img.basketball		{width:130px;}
+			img.video			{width:130px;
+								 height:81.2px;}
+			img.books			{width:137px;
+								 height:81px;}
+			img.food			{width:136px;
+								 height:81px;}
+			img.dog				{width:130px;
+								 height:81px;}
+			img.friends			{width:130px;
+								 height:83px;}
+			img.dance			{width:133px;
+								 height:85px;}
+			img.csgo			{width:138px;
+								 height:85px;}
+			img.youtube			{width:130px;
+								 height:105px;}
+			img.google			{width:130px; 
+								 height:95px;}
+			img.reddit			{width:130px;
+								 height:100px;}
+			img.nba				{width:130px;
+								 height:100px;}			
+			img.hltv			{width:132px;
+								 height:100px;}
+			img.facebook		{width:125px;
+								 height:100px;}
+			img.gag				{width:130px;
+								 height:100px;}
+			img.moodle			{width:130px;
+								 height:100px;}
+			img.mangafox		{width:130px;
+								 height:110px;}
+<style/>
+								 
 <h2><?php echo $name; ?></h2>
  
 <table border='1' cellpadding='9'>
