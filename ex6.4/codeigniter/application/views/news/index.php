@@ -50,7 +50,7 @@
 			img.mangafox		{width:130px;
 								 height:110px;}
 <style/>
-								 
+<h1>Exercise 6.4</h1>								 
 <h2><?php echo $name; ?></h2>
  
 <table border='1' cellpadding='9'>
