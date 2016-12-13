@@ -58,3 +58,15 @@
 		
 		<h2>What You Do Today Can Improve All Your Tomorrow -Ralph Martson</h2>	
 				<img class="me" src="picture.jpg" alt="Me">
+				
+	<table>
+				<tr>
+					<th>Fullname:</th>
+					<th>Davvid Sy</th>
+				</tr>
+				
+				<tr>
+					<th>Nickname:</th>
+					<th>Davvid</th>
+				</tr>	
+			</table>
