@@ -1,0 +1,14 @@
+CREATE TABLE IF NOT EXISTS `news` (
+`user_id` int(11) NOT NULL,
+  `name` varchar(128) NOT NULL,
+    `slug` varchar(128) NOT NULL,
+  `nickname` varchar(128) NOT NULL,
+  `address` varchar(128) NOT NULL,
+  `website` varchar(128) NOT NULL,
+  `comment` text NOT NULL,
+  `gender` text NOT NULL,
+  `cellphone` varchar(20) NOT NULL,
+  PRIMARY KEY (`user_id`),
+  KEY `slug` (`slug`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+ 
