@@ -14,10 +14,10 @@
 					<img class="csgo" alt="Counter-Strike: Global Offensive" <?php echo site_url('/image/csgo.jpg'); ?>/>
 			<br/></br>
 				<p>Favorite Websites:</p>	
-					<a href="http://youtube.com"><img class="youtube" src="youtube.png" alt="Youtube Icon"/> </a>
-					<a href="http://google.com"><img class="google" src="google.png" alt="Google Icon"/> </a>
-					<a href="http://reddit.com"><img class="reddit" src="reddit.jpg" alt="Reddit Icon" /> </a>
-					<a href="http://nba.com"><img class="nba" src="nba.jpeg" alt="NBA Icon" /> </a>
+					<a href="http://youtube.com"><img class="youtube" src="youtube.png" alt="Youtube Icon" <?php echo site_url('/images/youtube.png'); ?>/> </a>
+					<a href="http://google.com"><img class="google" src="google.png" alt="Google Icon"<?php echo site_url('/images/google.png'); ?>/> </a>
+					<a href="http://reddit.com"><img class="reddit" src="reddit.jpg" alt="Reddit Icon" <?php echo site_url('/images/reddit.jpg'); ?>/> </a>
+					<a href="http://nba.com"><img class="nba" src="nba.jpeg" alt="NBA Icon" <?php echo site_url('/images/nba.jpg'); ?>/> </a>
 					<a href="http://hltv.org"><img class="hltv" src="hltv.png" alt="HLTV Icon" /> </a>
 					<a href="http://facebook.com"><img class="facebook" src="facebook.png" alt="Facebook Icon" /> </a>
 					<a href="http://9gag.com"><img class="gag" src="9gag.png" alt="9gag Icon" /> </a>
