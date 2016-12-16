@@ -4,14 +4,14 @@
 
 
 <p>Hobbies:</p>
-					<img class="basketball" alt="Play Basketball" src="<?php echo site_url('/images/basketball.jpg'); ?> />
+					<img class="basketball" alt="Play Basketball" src="<?php echo site_url('/image/basketball.jpg'); ?> />
 					<img class="video" src="/image/controller.jpg" alt="Play video games"/>
-					<img class="books" alt="Read books" <?php echo site_url('/images/book.jpg'); ?>/> 
-					<img class="food" src="/images/food.jpg" alt="Eat Food"/>
-					<img class="dog" src="/images/dog.jpg" alt="Dogs"/>
-					<img class="friends" src="/images/friends.gif" alt="Hanging with friends"/>
-					<img class="dance" src="/images/pop.jpg" alt="A little of dancing"/>
-					<img class="csgo" src="/images/csgo.jpg" alt="Counter-Strike: Global Offensive"/>
+					<img class="books" alt="Read books" <?php echo site_url('/image/book.jpg'); ?>/> 
+					<img class="food" alt="Eat Food" <?php echo site_url('/image/food.jpg'); ?>/>
+					<img class="dog" alt="Dogs" <?php echo site_url('/image/dog.jpg'); ?>/>
+					<img class="friends" alt="Hanging with friends" <?php echo site_url('/image/friends.gif'); ?>/>
+					<img class="dance" alt="A little of dancing" <?php echo site_url('/image/pop.jpg'); ?>/>
+					<img class="csgo" alt="Counter-Strike: Global Offensive" <?php echo site_url('/image/csgo.jpg'); ?>/>
 			<br/></br>
 				<p>Favorite Websites:</p>	
 					<a href="http://youtube.com"><img class="youtube" src="youtube.png" alt="Youtube Icon"/> </a>
