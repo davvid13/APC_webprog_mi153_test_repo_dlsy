@@ -14,15 +14,15 @@
 					<img class="csgo" alt="Counter-Strike: Global Offensive" <?php echo site_url('/image/csgo.jpg'); ?>/>
 			<br/></br>
 				<p>Favorite Websites:</p>	
-					<a href="http://youtube.com"><img class="youtube" src="youtube.png" alt="Youtube Icon" <?php echo site_url('/images/youtube.png'); ?>/> </a>
-					<a href="http://google.com"><img class="google" src="google.png" alt="Google Icon"<?php echo site_url('/images/google.png'); ?>/> </a>
-					<a href="http://reddit.com"><img class="reddit" src="reddit.jpg" alt="Reddit Icon" <?php echo site_url('/images/reddit.jpg'); ?>/> </a>
-					<a href="http://nba.com"><img class="nba" src="nba.jpeg" alt="NBA Icon" <?php echo site_url('/images/nba.jpg'); ?>/> </a>
-					<a href="http://hltv.org"><img class="hltv" src="hltv.png" alt="HLTV Icon" /> </a>
-					<a href="http://facebook.com"><img class="facebook" src="facebook.png" alt="Facebook Icon" /> </a>
-					<a href="http://9gag.com"><img class="gag" src="9gag.png" alt="9gag Icon" /> </a>
-					<a href="http://moodle2.apc.edu.ph"><img class="moodle" src="moodle.png" alt="Moodle Icon" /> </a>
-					<a href="http://mangafox.com"><img class="mangafox" src="mangafox.png" alt="Mange Icon" /> </a>
+					<a href="http://youtube.com"><img class="youtube" alt="Youtube Icon" <?php echo site_url('/images/youtube.png'); ?>/> </a>
+					<a href="http://google.com"><img class="google" alt="Google Icon"<?php echo site_url('/images/google.png'); ?>/> </a>
+					<a href="http://reddit.com"><img class="reddit" alt="Reddit Icon" <?php echo site_url('/images/reddit.jpg'); ?>/> </a>
+					<a href="http://nba.com"><img class="nba" alt="NBA Icon" <?php echo site_url('/images/nba.jpg'); ?>/> </a>
+					<a href="http://hltv.org"><img class="hltv" alt="HLTV Icon" /> </a>
+					<a href="http://facebook.com"><img class="facebook" alt="Facebook Icon" <?php echo site_url('/images/facebook.png'); ?>/> </a>
+					<a href="http://9gag.com"><img class="gag" alt="9gag Icon" <?php echo site_url('/images/9gag.png'); ?>/> </a>
+					<a href="http://moodle2.apc.edu.ph"><img class="moodle" alt="Moodle Icon" <?php echo site_url('/images/moodle.png'); ?>/>/> </a>
+					<a href="http://mangafox.com"><img class="mangafox" alt="Mange Icon" <?php echo site_url('/images/mangafox.png'); ?>/>/> </a>
 					<p>Click on icon to see websites!</p></br>							 
 
 <table border='1' cellpadding='9'>
