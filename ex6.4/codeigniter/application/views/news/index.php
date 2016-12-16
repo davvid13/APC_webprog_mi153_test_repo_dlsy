@@ -21,8 +21,8 @@
 					<a href="http://hltv.org"><img class="hltv" alt="HLTV Icon" /> </a>
 					<a href="http://facebook.com"><img class="facebook" alt="Facebook Icon" <?php echo site_url('/images/facebook.png'); ?>/> </a>
 					<a href="http://9gag.com"><img class="gag" alt="9gag Icon" <?php echo site_url('/images/9gag.png'); ?>/> </a>
-					<a href="http://moodle2.apc.edu.ph"><img class="moodle" alt="Moodle Icon" <?php echo site_url('/images/moodle.png'); ?>/>/> </a>
-					<a href="http://mangafox.com"><img class="mangafox" alt="Mange Icon" <?php echo site_url('/images/mangafox.png'); ?>/>/> </a>
+					<a href="http://moodle2.apc.edu.ph"><img class="moodle" alt="Moodle Icon" <?php echo site_url('/images/moodle.png'); ?>/> </a>
+					<a href="http://mangafox.com"><img class="mangafox" alt="Mange Icon" <?php echo site_url('/images/mangafox.png'); ?>/> </a>
 					<p>Click on icon to see websites!</p></br>							 
 
 <table border='1' cellpadding='9'>
