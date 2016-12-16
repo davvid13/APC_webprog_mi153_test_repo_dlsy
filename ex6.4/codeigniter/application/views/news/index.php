@@ -4,9 +4,9 @@
 
 
 <p>Hobbies:</p>
-					<img class="basketball" src="/image/basketball.jpg" alt="Play Basketball"/>
+					<img class="basketball" alt="Play Basketball" src="<?php echo site_url('/images/basketball.jpg'); ?> />
 					<img class="video" src="/image/controller.jpg" alt="Play video games"/>
-					<img class="books" src="/images/book.jpg" alt="Read books"/> 
+					<img class="books" alt="Read books" <?php echo site_url('/images/book.jpg'); ?>/> 
 					<img class="food" src="/images/food.jpg" alt="Eat Food"/>
 					<img class="dog" src="/images/dog.jpg" alt="Dogs"/>
 					<img class="friends" src="/images/friends.gif" alt="Hanging with friends"/>
