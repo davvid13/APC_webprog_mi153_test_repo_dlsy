@@ -25,6 +25,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 $config['base_url'] = 'http://localhost/ex6.4/codeigniter/';
 
+/* 'http://localhost:8080/ex6.4/codeigniter/'; <----- I used cause i had a problem on xampp
+
+
+*/
+
+
 /*
 |--------------------------------------------------------------------------
 | Index File
