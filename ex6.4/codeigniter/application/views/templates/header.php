@@ -57,7 +57,7 @@
 		<p><a href="<?php echo site_url('news'); ?>">Home</a> | <a href="<?php echo site_url('news/create'); ?>">Add</a></p>
 		
 		<h2>What You Do Today Can Improve All Your Tomorrow -Ralph Martson</h2>	
-				<img class="me" src="picture.jpg" alt="Me">
+				<img class="me" alt="Me" src="<?php echo base_url('/image/picture.jpg'); ?>">
 				
 	<table>
 				<tr>
