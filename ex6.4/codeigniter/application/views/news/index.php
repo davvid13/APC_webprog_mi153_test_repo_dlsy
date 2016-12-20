@@ -11,7 +11,7 @@
 					<img class="dog" alt="Dogs" src="<?php echo base_url('/image/dog.jpg'); ?>"/>
 					<img class="friends" alt="Hanging with friends" src="<?php echo base_url('/image/friends.gif'); ?>"/>
 					<img class="dance" alt="A little of dancing" src="<?php echo base_url('/image/pop.jpg'); ?>"/>
-					<img class="csgo" alt="Counter-Strike: Global Offensive" <?php echo site_url('/image/csgo.jpg'); ?>/>
+					<img class="csgo" alt="Counter-Strike: Global Offensive" src="<?php echo base_url('/image/csgo.jpg'); ?>"/>
 			<br/></br>
 				<p>Favorite Websites:</p>	
 					<a href="http://youtube.com"><img class="youtube" alt="Youtube Icon" <?php echo base_url('/images/youtube.png'); ?>/> </a>
