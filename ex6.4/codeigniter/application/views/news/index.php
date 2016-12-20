@@ -5,7 +5,7 @@
 
 <p>Hobbies:</p>
 					<img class="basketball" alt="Play Basketball" src="<?php echo base_url('/image/basketball.jpg'); ?>" />
-					<img class="video" src="/image/controller.jpg" alt="Play video games"/>
+					<img class="video" alt="Play video games" src="<?php echo base_url('/image/controller.jpg'); ?>"/>
 					<img class="books" alt="Read books" <?php echo site_url('/image/book.jpg'); ?>/> 
 					<img class="food" alt="Eat Food" <?php echo site_url('/image/food.jpg'); ?>/>
 					<img class="dog" alt="Dogs" <?php echo site_url('/image/dog.jpg'); ?>/>
