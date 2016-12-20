@@ -8,7 +8,7 @@
 					<img class="video" alt="Play video games" src="<?php echo base_url('/image/controller.jpg'); ?>"/>
 					<img class="books" alt="Read books" src="<?php echo base_url('/image/books.jpg'); ?>"/> 
 					<img class="food" alt="Eat Food" src="<?php echo base_url('/image/food.jpg'); ?>"/>
-					<img class="dog" alt="Dogs" <?php echo site_url('/image/dog.jpg'); ?>/>
+					<img class="dog" alt="Dogs" src="<?php echo base_url('/image/dog.jpg'); ?>"/>
 					<img class="friends" alt="Hanging with friends" <?php echo site_url('/image/friends.gif'); ?>/>
 					<img class="dance" alt="A little of dancing" <?php echo site_url('/image/pop.jpg'); ?>/>
 					<img class="csgo" alt="Counter-Strike: Global Offensive" <?php echo site_url('/image/csgo.jpg'); ?>/>
