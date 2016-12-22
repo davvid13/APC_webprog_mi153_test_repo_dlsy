@@ -7,7 +7,7 @@ use yii\grid\GridView;
 /* @var $searchModel app\models\paoSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Paos';
+$this->title = 'Pao';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="pao-index">
