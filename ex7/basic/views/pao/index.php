@@ -12,7 +12,7 @@ $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="pao-index">
 
-    <h1><?= Html::encode($this->title) ?></h1>
+    <h1></h1>
     <?php // echo $this->render('_search', ['model' => $searchModel]); ?>
 
     <p>
@@ -29,6 +29,9 @@ $this->params['breadcrumbs'][] = $this->title;
             'address',
             'e_mail',
             'website',
+			'comment',
+			'gender',
+			'cellphone',
             // 'comment:ntext',
             // 'gender:ntext',
             // 'cellphone',
