@@ -73,15 +73,15 @@ $this->params['breadcrumbs'][] = $this->title;
 				
 				
 				<p>Favorite Websites:</p>	
-					<a href="http://youtube.com"><img class="youtube" alt="Youtube Icon" src="<?php echo base_url('/image/youtube.png'); ?>"/> </a>
-					<a href="http://google.com"><img class="google" alt="Google Icon" src="<?php echo base_url('/image/google.png'); ?>"/> </a>
-					<a href="http://reddit.com"><img class="reddit" alt="Reddit Icon" src="<?php echo base_url('/image/reddit.jpg'); ?>"/> </a>
-					<a href="http://nba.com"><img class="nba" alt="NBA Icon" src="<?php echo base_url('/image/nba1.jpg'); ?>"/> </a>
-					<a href="http://hltv.org"><img class="hltv" alt="HLTV Icon" src="<?php echo base_url('/image/hltv.png'); ?>"/> </a>
-					<a href="http://facebook.com"><img class="facebook" alt="Facebook Icon" src="<?php echo base_url('/image/facebook.png'); ?>"/> </a>
-					<a href="http://9gag.com"><img class="gag" alt="9gag Icon" src="<?php echo base_url('/image/9gag.png'); ?>"/> </a>
-					<a href="http://moodle2.apc.edu.ph"><img class="moodle" alt="Moodle Icon" src="<?php echo base_url('/image/moodle.png'); ?>"/> </a>
-					<a href="http://mangafox.com"><img class="mangafox" alt="Manga Icon" src="<?php echo base_url('/image/mangafox.png'); ?>"/> </a>
+					<a href="http://youtube.com"><img class="youtube" alt="Youtube Icon" src="youtube.png"/> </a>
+					<a href="http://google.com"><img class="google" alt="Google Icon" src="google.png"/> </a>
+					<a href="http://reddit.com"><img class="reddit" alt="Reddit Icon" src="reddit.jpg"/> </a>
+					<a href="http://nba.com"><img class="nba" alt="NBA Icon" src="nba1.jpg"/> </a>
+					<a href="http://hltv.org"><img class="hltv" alt="HLTV Icon" src="hltv.png"/> </a>
+					<a href="http://facebook.com"><img class="facebook" alt="Facebook Icon" src="facebook.png"/> </a>
+					<a href="http://9gag.com"><img class="gag" alt="9gag Icon" src="9gag.png"/> </a>
+					<a href="http://moodle2.apc.edu.ph"><img class="moodle" alt="Moodle Icon" src="moodle.png>"/> </a>
+					<a href="http://mangafox.com"><img class="mangafox" alt="Manga Icon" src="mangafox.png>"/> </a>
 					<p>Click on icon to see websites!</p></br>
     <?= GridView::widget([
         'dataProvider' => $dataProvider,
