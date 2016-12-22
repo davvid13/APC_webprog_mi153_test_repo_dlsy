@@ -124,6 +124,7 @@ class SiteController extends Controller
     }
 	
 	public function actionTest(){
-		return $this ->render('test');
+		$name = 'Davvid';
+		return $this ->render('test',array('name'=>$name));
 	}
 }
