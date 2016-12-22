@@ -10,6 +10,21 @@ use yii\grid\GridView;
 $this->title = 'Pao';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
+<style>h1, h2 				{text-align:center; 
+								 color:black;
+								 font-family:courier new;}
+					
+			img.me 				{float:right;
+								 width:100px;}
+					
+			table 				{width:100%;}
+			
+			th					{color:black;
+								 font-family:georgia}
+					 
+			p					{color:black;
+								 font-family:georgia}
+</style>
 <div class="pao-index">
 
     <h1>Exercise 7</h1>
