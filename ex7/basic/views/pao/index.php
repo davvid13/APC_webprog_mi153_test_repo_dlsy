@@ -12,7 +12,7 @@ $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="pao-index">
 
-    <h1></h1>
+    <h1>Exercise 7</h1>
     <?php // echo $this->render('_search', ['model' => $searchModel]); ?>
 
     <p>
