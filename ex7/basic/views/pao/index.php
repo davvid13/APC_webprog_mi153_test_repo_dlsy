@@ -68,7 +68,21 @@ $this->params['breadcrumbs'][] = $this->title;
 					<img class="friends" alt="Hanging with friends" src="friends.gif"/>
 					<img class="dance" alt="A little of dancing" src="pop.jpg'"/>
 					<img class="csgo" alt="Counter-Strike: Global Offensive" src="csgo.jpg"/>
-					
+
+					<br/></br>
+				
+				
+				<p>Favorite Websites:</p>	
+					<a href="http://youtube.com"><img class="youtube" alt="Youtube Icon" src="<?php echo base_url('/image/youtube.png'); ?>"/> </a>
+					<a href="http://google.com"><img class="google" alt="Google Icon" src="<?php echo base_url('/image/google.png'); ?>"/> </a>
+					<a href="http://reddit.com"><img class="reddit" alt="Reddit Icon" src="<?php echo base_url('/image/reddit.jpg'); ?>"/> </a>
+					<a href="http://nba.com"><img class="nba" alt="NBA Icon" src="<?php echo base_url('/image/nba1.jpg'); ?>"/> </a>
+					<a href="http://hltv.org"><img class="hltv" alt="HLTV Icon" src="<?php echo base_url('/image/hltv.png'); ?>"/> </a>
+					<a href="http://facebook.com"><img class="facebook" alt="Facebook Icon" src="<?php echo base_url('/image/facebook.png'); ?>"/> </a>
+					<a href="http://9gag.com"><img class="gag" alt="9gag Icon" src="<?php echo base_url('/image/9gag.png'); ?>"/> </a>
+					<a href="http://moodle2.apc.edu.ph"><img class="moodle" alt="Moodle Icon" src="<?php echo base_url('/image/moodle.png'); ?>"/> </a>
+					<a href="http://mangafox.com"><img class="mangafox" alt="Manga Icon" src="<?php echo base_url('/image/mangafox.png'); ?>"/> </a>
+					<p>Click on icon to see websites!</p></br>
     <?= GridView::widget([
         'dataProvider' => $dataProvider,
         'filterModel' => $searchModel,
