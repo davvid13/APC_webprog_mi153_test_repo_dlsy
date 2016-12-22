@@ -10,7 +10,8 @@ use yii\grid\GridView;
 $this->title = 'Pao';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
-<style>h1, h2 				{text-align:center; 
+<style>
+			h1, h2 				{text-align:center; 
 								 color:black;
 								 font-family:courier new;}
 					
