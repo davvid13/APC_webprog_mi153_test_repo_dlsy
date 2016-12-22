@@ -40,7 +40,7 @@ $this->params['breadcrumbs'][] = $this->title;
 	
 	<br/>
 	<h2>What You Do Today Can Improve All Your Tomorrow -Ralph Martson</h2>	
-		
+<img class="me" alt="Me" src="picture.jpg">		
 		
 		
 		<table>
@@ -56,8 +56,10 @@ $this->params['breadcrumbs'][] = $this->title;
 			</table>
 
     <p>
-        <?= Html::a('Create Pao', ['create'], ['class' => 'btn btn-success']) ?>
+        <?= Html::a('Add Content', ['create'], ['class' => 'btn btn-success']) ?>
     </p>
+	
+<p>Hobbies:</p>
     <?= GridView::widget([
         'dataProvider' => $dataProvider,
         'filterModel' => $searchModel,
