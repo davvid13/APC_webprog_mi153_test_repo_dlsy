@@ -30,6 +30,8 @@ $this->params['breadcrumbs'][] = $this->title;
 
     <h1>Exercise 7</h1>
     <?php // echo $this->render('_search', ['model' => $searchModel]); ?>
+	<br/>
+	<h2>What You Do Today Can Improve All Your Tomorrow -Ralph Martson</h2>	
 
     <p>
         <?= Html::a('Create Pao', ['create'], ['class' => 'btn btn-success']) ?>
