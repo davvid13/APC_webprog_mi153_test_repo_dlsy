@@ -96,11 +96,11 @@ $this->params['breadcrumbs'][] = $this->title;
 <p>Hobbies:</p>
 					<img class="basketball" alt="Play Basketball" src="basketball.jpg"/>
 					<img class="video" alt="Play video games" src="controller.jpg"/>
-					<img class="books" alt="Read books" src="/book.jpg"/> 
-					<img class="food" alt="Eat Food" src="food.jpg')"/>
-					<img class="dog" alt="Dogs" src="dog.jpg ?>"/>
+					<img class="books" alt="Read books" src="book.jpg"/> 
+					<img class="food" alt="Eat Food" src="food.jpg"/>
+					<img class="dog" alt="Dogs" src="dog.jpg"/>
 					<img class="friends" alt="Hanging with friends" src="friends.gif"/>
-					<img class="dance" alt="A little of dancing" src="pop.jpg'"/>
+					<img class="dance" alt="A little of dancing" src="pop.jpg"/>
 					<img class="csgo" alt="Counter-Strike: Global Offensive" src="csgo.jpg"/>
 
 					<br/></br>
