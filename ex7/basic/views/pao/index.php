@@ -11,17 +11,24 @@ $this->title = 'Pao';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <style>
-			h1, h2 				{text-align:center; 
+			h1					{text-align:center; 
 								 color:black;
-								 font-family:courier new;}
+								 font-family:lucida console}
+			
+			h2					{text-align:center;
+								 color:black;
+								 font-family:courier new;
+								 font-style:oblique}
 					
 			img.me 				{float:right;
 								 width:100px;}
 					
-			table 				{width:100%;}
+			table 				{width:100%;
+								 float:center;}
 			
 			th					{color:black;
-								 font-family:georgia}
+								 font-family:georgia;
+								  float:center;}
 					 
 			p					{color:black;
 								 font-family:georgia}
@@ -30,8 +37,23 @@ $this->params['breadcrumbs'][] = $this->title;
 
     <h1>Exercise 7</h1>
     <?php // echo $this->render('_search', ['model' => $searchModel]); ?>
+	
 	<br/>
 	<h2>What You Do Today Can Improve All Your Tomorrow -Ralph Martson</h2>	
+		
+		
+		
+		<table>
+				<tr>
+					<th>Fullname:</th>
+					<th>Davvid Sy</th>
+				</tr>
+				
+				<tr>
+					<th>Nickname:</th>
+					<th>Davvid</th>
+				</tr>	
+			</table>
 
     <p>
         <?= Html::a('Create Pao', ['create'], ['class' => 'btn btn-success']) ?>
